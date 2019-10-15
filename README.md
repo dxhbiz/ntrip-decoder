@@ -3,7 +3,7 @@ This project is for ntripcaster data decode(not for rtcm data decode).
 # demo
 ```
 const net = require('net');
-const { NtripDecoder } = require('../index');
+const { NtripDecoder } = require('ntrip-decoder');
 
 const decoder = new NtripDecoder();
 

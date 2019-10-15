@@ -1,6 +1,6 @@
 {
   "name": "ntrip-decoder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The decoder for ntripcaster, not for rtcm data.",
   "main": "index.js",
   "scripts": {
