@@ -1,0 +1,19 @@
+{
+  "name": "ntrip-decoder",
+  "version": "1.0.0",
+  "description": "The decoder for ntripcaster, not for rtcm data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dxhbiz/ntrip-decoder.git"
+  },
+  "author": "dxhbiz@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dxhbiz/ntrip-decoder/issues"
+  },
+  "homepage": "https://github.com/dxhbiz/ntrip-decoder#readme"
+}
